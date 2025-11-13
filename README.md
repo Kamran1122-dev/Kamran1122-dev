@@ -2,12 +2,12 @@
 <h3 align="center">💻 A Passionate Data Engineer Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akilliraza&label=Profile%20views&color=0e75b6&style=flat" alt="akilliraza" />
+  <img src="https://komarev.com/ghpvc/?username=Kamran1122-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Kamran1122-dev" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=akilliraza&theme=onedark&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Kamran1122-dev&theme=onedark&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **Multi-Agent Banking Assistant**
 - 🌱 I’m constantly learning about **AI, Cloud, and Modern Web Technologies**
 - 💬 Ask me about **Azure, React, Python, Node.js, and AI Integration**
-- 📫 Reach me at **akilli.raza@gmail.com**
+- 📫 Reach me at **kamranameer.smiles@gmail.com**
 
 ---
 
@@ -31,7 +31,7 @@
   <a href="https://medium.com/@aliraza" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" alt="Medium" height="30" width="40"/>
   </a>
-  <a href="mailto:akilli.raza@gmail.com" target="_blank">
+  <a href="mailto:kamranameer.smiles@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" alt="Email" height="30" width="40"/>
   </a>
   <!-- Add only the platforms you actively use -->
@@ -64,11 +64,11 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilliraza&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran1122-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akilliraza&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kamran1122-dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
