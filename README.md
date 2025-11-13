@@ -1,4 +1,4 @@
-<h1 align="center">Kamran Meer</h1>
+<h1 align="center">Kamran Ameer</h1>
 <h3 align="center">💻 A Passionate Data Engineer Developer</h3>
 
 <p align="center">
