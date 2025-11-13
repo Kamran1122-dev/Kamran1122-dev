@@ -50,12 +50,6 @@ My goal is to work in a challenging environment that fosters both institutional 
   *2013 – Present*  
   - Worked across multiple web technologies and delivered client-focused solutions globally.  
 
-- **Security Officer – Safe Side Security Services**  
-  *Nov 2023 – Aug 2024*  
-
-- **Security Officer – New Concept Security**  
-  *Aug 2024 – Present*  
-
 ---
 
 ### 🧠 Core Strengths
