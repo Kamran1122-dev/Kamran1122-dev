@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kamran1122-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Kamran1122-dev" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Kamran1122-dev&theme=onedark&row=1&column=7" alt="Trophies" />
   </a>
