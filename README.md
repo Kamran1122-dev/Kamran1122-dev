@@ -1,5 +1,5 @@
 <h1 align="center">Kamran Ameer</h1>
-<h3 align="center">💻 Full Stack Developer | Data Science Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kamran1122-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Kamran1122-dev" />
