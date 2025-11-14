@@ -15,14 +15,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran1122-dev&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kamran1122-dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran1122-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamran1122-dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
 ---
 
 ### 🧭 Career Objective
