@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kamran1122-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Kamran1122-dev" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Kamran1122-dev&theme=onedark&row=1&column=7" alt="Trophies" />
   </a>
@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran1122-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Kamran1122-dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 ---
