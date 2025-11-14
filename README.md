@@ -25,8 +25,6 @@ My goal is to work in a challenging environment that fosters both institutional 
 - **Master’s in Data Science** – *University of Gloucestershire* (Sep 2024)  
 - **MCS – Computer Science** – *University of Management & Technology, Lahore* (Feb 2021) – GPA: 2.76  
 - **BSc – Computer Science (2 Years)** – *University of Punjab* (2017) – 2nd Division  
-- **FSc Pre-Engineering** – *Rawalpindi Board* (2013) – 2nd Division  
-- **Matriculation** – *Rawalpindi Board* (2011) – Grade A  
 
 **Certifications:**
 - 🛡️ SIA Door Supervisor Security Badge  
