@@ -44,14 +44,14 @@ My goal is to work in a challenging environment that fosters both institutional 
 ### 💼 Experience
 
 - **Full Stack Developer – IT Prism (Private) Ltd, Islamabad**  
-  *Feb 2021 – Present (Remote)*  
+  *Feb 2021 – July 2023)*  
   - Developed enterprise-level web applications for international clients.  
   - Integrated UX/UI with backend using modern web technologies.  
   - Managed deployments, GitHub repositories, and project tracking boards.  
   - Delivered technical presentations to international clients.  
 
-- **Inside Sales Executive – Punjab Cash and Carry, Islamabad**  
-  *Feb 2021 – Mar 2023*  
+- **Royal Mail – Scanner Operator**  
+  *March 2023 – Present *  
 
 - **Freelancer (Full Time)**  
   *2013 – Present*  
